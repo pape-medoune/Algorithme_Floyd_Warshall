@@ -42,8 +42,8 @@ L'algorithme de Floyd-Warshall est un algorithme fondamental en théorie des gra
 
 1. Clonez ce dépôt:
    ```
-   git clone https://github.com/votre-nom-utilisateur/floyd-warshall-gui.git
-   cd floyd-warshall-gui
+   git clone https://github.com/pape-medoune/Algorithme_Floyd_Warshall.git
+   cd Algorithme_Floyd_Warshall
    ```
 
 2. Créez un environnement virtuel (recommandé):
